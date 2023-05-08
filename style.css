@@ -1,0 +1,16 @@
+#navbarSupportedContent a
+{
+    color: whitesmoke;
+}
+#jello
+{
+    background-color: black;
+}
+#jello a:hover
+{
+    color:black;
+}
+#carouselExampleDark
+{
+    margin-top: 2px;
+}
